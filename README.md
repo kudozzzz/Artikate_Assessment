@@ -2,6 +2,11 @@
 
 This repository contains my completed submission for the Artikate Studio AI / ML / LLM Engineer technical assessment. The work covers system diagnosis, retrieval-augmented generation, low-latency machine learning, and written systems design.
 
+## Optional Section 5 — Live Walkthrough Video
+
+Loom / Drive Link: https://www.loom.com/share/c404695b4b5d4267be2eada7c91e40b3
+
+This short walkthrough demonstrates the Section 2 RAG pipeline, evaluation harness, live query handling, and confidence-based refusal behavior.
 ---
 
 ## Repository Structure
